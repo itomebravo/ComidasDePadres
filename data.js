@@ -36,8 +36,9 @@ window.QUEDADA = {
       alias: "Los Puntuales (según ellos)",
       imagen: "img/pitu-carli.png",
       emoji: "⏰",
-      especialidad: "Llegar «en cinco minutos» desde hace veinte.",
-      frase: "«Estamos aparcando.»",
+      especialidad: "Llegar «en cinco minutos» desde hace veinte. Pitu, además, sommelier oficial de agua con gas.",
+      frase: "«Para mí un agua con gas, con hielo y limón.»",
+      alerta: "Pitu pedirá agua con gas. No es que se encuentre mal: es que le apasiona.",
       riesgoFuga: 35
     },
     {
@@ -45,8 +46,9 @@ window.QUEDADA = {
       alias: "La Sobremesa Infinita",
       imagen: "img/euge-fran.png",
       emoji: "🍷",
-      especialidad: "Pedir «la última» tres veces seguidas.",
+      especialidad: "Pedir «la última» tres veces seguidas. Fran, abrazar columnas a partir de cierta hora.",
       frase: "«Venga, una y nos vamos.»",
+      alerta: "Tendencia documentada de Fran a abrazar columnas. Se ruega localizar las del local al llegar.",
       riesgoFuga: 10
     },
     {
@@ -56,6 +58,7 @@ window.QUEDADA = {
       emoji: "📱",
       especialidad: "Ampliar el horario de recogida con los abuelos por WhatsApp sin que nadie se entere.",
       frase: "«Tranquilos, que me dan hasta las nueve.»",
+      alerta: "A partir de la tercera copa, Anuar saca la anaconda. Quedan avisados.",
       riesgoFuga: 25
     },
     {
@@ -65,6 +68,7 @@ window.QUEDADA = {
       emoji: "📋",
       especialidad: "Montar una web para una comida. Sí, en serio.",
       frase: "«¿Habéis visto la web?»",
+      alerta: "Nacho tiene el tequila PROHIBIDO. Si alguien le ofrece uno, será considerado cómplice.",
       riesgoFuga: 45
     }
   ],
@@ -77,7 +81,11 @@ window.QUEDADA = {
     "Se espera una sobremesa de duración indeterminada en la zona del Cadelo",
     "Detectado un grupo de padres terminando un plato caliente sin interrupciones",
     "La DGT recomienda no planificar la vuelta a casa antes de las 20:00",
-    "Un padre consigue terminar una frase completa sin que nadie le llame «papá»"
+    "Un padre consigue terminar una frase completa sin que nadie le llame «papá»",
+    "Las columnas de Santander, en alerta máxima ante la llegada de Fran",
+    "El Cadelo retira preventivamente el tequila del campo de visión de Nacho",
+    "Pitu pide su tercera agua con gas y el camarero opta por dejarle la botella grande",
+    "Protección Civil recuerda que la anaconda de Anuar no sale antes de la tercera copa"
   ],
 
   // Hemeroteca: añade aquí las quedadas pasadas cuando termine cada una

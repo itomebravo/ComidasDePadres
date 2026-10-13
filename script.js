@@ -51,6 +51,7 @@
           "<dt>Frase típica</dt><dd class=\"fra\"></dd>" +
           "<dt>Riesgo de irse pronto</dt><dd><div class=\"riesgo\"><i></i></div></dd>" +
         "</dl>" +
+        "<p class=\"alerta\" hidden></p>" +
       "</div>";
     var img = art.querySelector("img");
     img.alt = "Caricatura de " + p.nombres;
@@ -60,6 +61,11 @@
     art.querySelector(".alias").textContent = p.alias;
     art.querySelector(".esp").textContent = p.especialidad;
     art.querySelector(".fra").textContent = p.frase;
+    if (p.alerta) {
+      var al = art.querySelector(".alerta");
+      al.textContent = "⚠️ " + p.alerta;
+      al.hidden = false;
+    }
     var bar = art.querySelector(".riesgo i");
     bar.style.width = (p.riesgoFuga || 0) + "%";
     art.querySelector(".riesgo").title = (p.riesgoFuga || 0) + "%";

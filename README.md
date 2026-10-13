@@ -44,15 +44,15 @@ Van en la carpeta `img/` con estos nombres exactos (PNG o cambia la extensión e
 Lo mejor es usar una herramienta que acepte foto de referencia (ChatGPT, Gemini…): sube una foto de la pareja y usa el prompt. Sin foto saldrá una pareja genérica.
 
 **Pitu & Carli** — «Los Puntuales (según ellos)»
-> A partir de la foto adjunta, crea una caricatura divertida de esta pareja, manteniendo sus rasgos reconocibles. Van corriendo por la calle con cara de prisa, uno mirando un reloj de pulsera gigante y el otro con el móvil en la mano escribiendo «estamos aparcando». Fondo azul marino liso con un marco tipo rótulo de informativo. Estilo caricatura editorial, colores vivos, plano medio, sin texto. Formato cuadrado.
+> A partir de la foto adjunta, crea una caricatura divertida de esta pareja, manteniendo sus rasgos reconocibles. Van corriendo por la calle con cara de prisa, uno abrazado a una botella gigante de agua con gas llena de burbujas y el otro con el móvil en la mano escribiendo «estamos aparcando». Fondo azul marino liso con un marco tipo rótulo de informativo. Estilo caricatura editorial, colores vivos, plano medio, sin texto. Formato cuadrado.
 
 **Euge & Fran** — «La Sobremesa Infinita»
-> A partir de la foto adjunta, crea una caricatura divertida de esta pareja, manteniendo sus rasgos reconocibles. Están sentados en una mesa de restaurante tras la comida, relajadísimos, brindando con copas y levantando un dedo como diciendo «una más», mientras al fondo un camarero apila las sillas. Fondo azul marino liso con un marco tipo rótulo de informativo. Estilo caricatura editorial, colores vivos, plano medio, sin texto. Formato cuadrado.
+> A partir de la foto adjunta, crea una caricatura divertida de esta pareja, manteniendo sus rasgos reconocibles. Uno de ellos abraza con cariño una columna del restaurante con los ojos cerrados y cara de felicidad, mientras el otro brinda con una copa levantando un dedo como diciendo «una más»; al fondo un camarero apila las sillas. Fondo azul marino liso con un marco tipo rótulo de informativo. Estilo caricatura editorial, colores vivos, plano medio, sin texto. Formato cuadrado.
 
 **Anuar & Pau** — «Los Negociadores»
 > A partir de la foto adjunta, crea una caricatura divertida de esta pareja, manteniendo sus rasgos reconocibles. Uno habla por el móvil con gesto de negociador profesional, como cerrando un gran acuerdo, y el otro le hace el gesto de «pide una hora más» con complicidad. Fondo azul marino liso con un marco tipo rótulo de informativo. Estilo caricatura editorial, colores vivos, plano medio, sin texto. Formato cuadrado.
 
 **Naza & Nacho** — «Los Organizadores»
-> A partir de la foto adjunta, crea una caricatura divertida de esta pareja, manteniendo sus rasgos reconocibles. Él sujeta un portátil enseñando orgulloso una web en la pantalla y ella sostiene una carpeta de planificación y un bolígrafo, los dos con cara de tenerlo todo bajo control. Fondo azul marino liso con un marco tipo rótulo de informativo. Estilo caricatura editorial, colores vivos, plano medio, sin texto. Formato cuadrado.
+> A partir de la foto adjunta, crea una caricatura divertida de esta pareja, manteniendo sus rasgos reconocibles. Él sujeta un portátil enseñando orgulloso una web en la pantalla y ella sostiene una carpeta de planificación y un bolígrafo, los dos con cara de tenerlo todo bajo control. A un lado, una botella de tequila con una señal de prohibido y Nacho mirándola de reojo con resignación. Fondo azul marino liso con un marco tipo rótulo de informativo. Estilo caricatura editorial, colores vivos, plano medio, sin texto. Formato cuadrado.
 
 Consejo: genera las seis en la misma conversación y pide al principio «mantén exactamente el mismo estilo en todas las imágenes».

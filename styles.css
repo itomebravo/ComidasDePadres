@@ -141,6 +141,7 @@ h1 em { font-style: normal; color: var(--yellow); }
 .ficha dl { margin: 0; font-size: .9rem; }
 .ficha dt { color: var(--muted); font-size: .72rem; text-transform: uppercase; letter-spacing: 1px; font-weight: 800; }
 .ficha dd { margin: 0 0 6px; }
+.ficha .alerta { margin: 10px 0 0; background: rgba(225,6,0,.18); border-left: 4px solid var(--red); padding: 6px 10px; border-radius: 4px; font-size: .85rem; font-weight: 600; }
 .riesgo { height: 10px; background: rgba(255,255,255,.12); border-radius: 6px; overflow: hidden; }
 .riesgo i { display: block; height: 100%; background: linear-gradient(90deg, #2ecc71, var(--yellow), var(--red)); background-size: 300px 100%; }
 
