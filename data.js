@@ -85,7 +85,9 @@ window.QUEDADA = {
     "Las columnas de Santander, en alerta máxima ante la llegada de Fran",
     "El Cadelo retira preventivamente el tequila del campo de visión de Nacho",
     "Pitu pide su tercera agua con gas y el camarero opta por dejarle la botella grande",
-    "Protección Civil recuerda que la anaconda de Anuar no sale antes de la tercera copa"
+    "Protección Civil recuerda que la anaconda de Anuar no sale antes de la tercera copa",
+    "AEMET confirma la teoría de Euge: en los bares no llueve",
+    "Previsión para el sábado: lluvia en la calle, sequía absoluta en la barra"
   ],
 
   // Hemeroteca: añade aquí las quedadas pasadas cuando termine cada una

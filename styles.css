@@ -112,6 +112,25 @@ h1 em { font-style: normal; color: var(--yellow); }
 .fase.pasada { opacity: .55; }
 
 /* Tiempo */
+/* Lluvia vs bares */
+.lluvia { display: grid; grid-template-columns: 1fr auto 1fr; gap: 12px; align-items: stretch; margin-top: 16px; }
+.ll-col { position: relative; overflow: hidden; border-radius: var(--radius); padding: 18px 14px; text-align: center; }
+.ll-fuera { background: linear-gradient(180deg, #3b4a5e, #222c3a); }
+.ll-dentro { background: linear-gradient(180deg, #f7b733, #e8871e); color: #1a1205; }
+.ll-icon { font-size: 3.4rem; line-height: 1.2; position: relative; }
+.ll-label { font-family: var(--head); text-transform: uppercase; font-size: 1.3rem; position: relative; }
+.ll-desc { font-weight: 800; position: relative; }
+.ll-dato { font-size: .9rem; opacity: .85; position: relative; }
+.ll-vs { align-self: center; font-family: var(--head); font-size: 1.6rem; background: var(--red); color: #fff; border-radius: 50%; width: 56px; height: 56px; display: grid; place-items: center; }
+.drops i { position: absolute; top: -20px; width: 2px; height: 16px; background: rgba(180,210,255,.7); border-radius: 2px; animation: rain .9s linear infinite; }
+.drops i:nth-child(1){left:5%;animation-delay:0s} .drops i:nth-child(2){left:13%;animation-delay:.35s} .drops i:nth-child(3){left:21%;animation-delay:.7s}
+.drops i:nth-child(4){left:29%;animation-delay:.15s} .drops i:nth-child(5){left:37%;animation-delay:.5s} .drops i:nth-child(6){left:45%;animation-delay:.85s}
+.drops i:nth-child(7){left:53%;animation-delay:.25s} .drops i:nth-child(8){left:61%;animation-delay:.6s} .drops i:nth-child(9){left:69%;animation-delay:.05s}
+.drops i:nth-child(10){left:77%;animation-delay:.45s} .drops i:nth-child(11){left:85%;animation-delay:.8s} .drops i:nth-child(12){left:93%;animation-delay:.3s}
+@keyframes rain { to { transform: translateY(220px); } }
+.euge-quote { margin: 16px 0 0; text-align: center; font-family: var(--head); font-size: clamp(1.5rem, 4vw, 2.2rem); color: var(--yellow); text-transform: uppercase; }
+.euge-quote cite { display: block; font-family: var(--body); font-size: .9rem; color: var(--muted); text-transform: none; font-style: normal; margin-top: 4px; }
+
 .tiempo-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-top: 16px; }
 .weather { background: linear-gradient(180deg, #1d5fae, #123e78); border-radius: var(--radius); padding: 14px; text-align: center; }
 .w-icon { font-size: 3rem; line-height: 1.2; animation: bob 3s ease-in-out infinite; }
@@ -202,6 +221,7 @@ h1 em { font-style: normal; color: var(--yellow); }
 @media (max-width: 820px) {
   .hero, .corresponsal, .panico-grid { grid-template-columns: 1fr; }
   .tiempo-grid { grid-template-columns: repeat(2, 1fr); }
+  .ll-vs { width: 44px; height: 44px; font-size: 1.2rem; }
   .fichas { grid-template-columns: 1fr; }
 }
 @media (max-width: 480px) {
